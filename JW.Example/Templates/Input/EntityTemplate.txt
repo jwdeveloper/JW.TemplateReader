@@ -1,0 +1,10 @@
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace %NAMESPACE%
+{
+    [Table("%TABLE%")]
+    public class %ENTITY% : IEntityModel<%TYPE%>
+    {
+        public %TYPE% Id { get; set; }
+    }
+}

@@ -1,9 +1,7 @@
-﻿
-
-using System;
+﻿using System;
 using System.Linq;
-using JW.TemplateRider.API.Implementation;
-using JW.TemplateRider.API.Interfaces;
+using JW.TemplateReader.API.Implementation;
+using JW.TemplateReader.API.Interfaces;
 using Xunit;
 
 namespace JW.TemplateReader.Test.Unit
