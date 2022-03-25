@@ -1,5 +1,5 @@
 # Template Reader
-#### This tool could be use for C# code generation or some other custom purpose. I guess that's it 🙃
+#### This tool could be use for code generation or some other custom purpose. I guess that's it 🙃
 
 ### Example template 
 EntityTemplate.txt
