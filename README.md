@@ -48,7 +48,7 @@ UserEntity.cs
 ```
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace this.is.Users.namespace
+namespace this.is.User.namespace
 {
     [Table("Users")]
     public class User : IEntityModel<int>
